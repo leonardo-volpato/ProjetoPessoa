@@ -1,0 +1,5 @@
+br\leonardo\pessoaProject\Application.class
+br\leonardo\pessoaProject\services\PessoaService.class
+br\leonardo\pessoaProject\services\implementations\PessoaServiceImpl.class
+br\leonardo\pessoaProject\models\Pessoa.class
+br\leonardo\pessoaProject\web\controllers\PessoaController.class
